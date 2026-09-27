@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "INDRASANI KUSUMA",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
-    whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
+    googleApiKey: "AIzaSyArZI4pMAHncSIA-c6n07cwxjV97gr1_EQ",
+    whatsappAdmin: "6282268141871" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
